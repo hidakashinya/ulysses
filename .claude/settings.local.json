@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/Users/hidaka-mac/Dropbox/**)",
+      "Read(/Users/hidaka-mac/Dropbox/**)",
+      "Read(/Users/hidaka-mac/Dropbox/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
